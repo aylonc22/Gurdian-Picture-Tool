@@ -34,13 +34,22 @@ List the ready features here:
 
 
 ## Screenshots
-![Home Page](Gurdian picture tool/Gurdian Picture Tool.png)
 
-![In Action](./In action.png)
+Home Page
 
-![Hand Mode](./Hand mode.png)
+![Home Page](Gurdian picture tool/ScreenShots/GurdianPictureTool.png)
 
-![Settings](./settings.png)
+In Action
+
+![In Action](Gurdian picture tool/ScreenShots/InAction.png)
+
+Hand Mode
+
+![Hand Mode](Gurdian picture tool/ScreenShots/HandMode.png)
+
+Compression Setting
+
+![Settings](Gurdian picture tool/ScreenShots/settings.png)
 
 
 ## Setup
@@ -49,7 +58,7 @@ In order to use the application we need to check all node modules are correctlly
 
 
 ## Project Status
-Project is: complete.
+Project is: Complete.
 
 
 ## Room for Improvement
