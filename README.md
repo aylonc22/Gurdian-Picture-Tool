@@ -34,7 +34,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Home Page](./Gurdian Picture Tool.png)
+![Home Page](Gurdian picture tool/Gurdian Picture Tool.png)
 
 ![In Action](./In action.png)
 
