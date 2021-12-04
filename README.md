@@ -37,19 +37,19 @@ List the ready features here:
 
 Home Page
 
-![Home Page](./Gurdian picture tool/ScreenShots/GurdianPictureTool.png)
+![Home Page](./ScreenShots/GurdianPictureTool.png)
 
 In Action
 
-![In Action](./Gurdian picture tool/ScreenShots/InAction.png)
+![In Action](./ScreenShots/InAction.png)
 
 Hand Mode
 
-![Hand Mode](./Gurdian picture tool/ScreenShots/HandMode.png)
+![Hand Mode](./ScreenShots/HandMode.png)
 
 Compression Setting
 
-![Settings](./Gurdian picture tool/ScreenShots/settings.png)
+![Settings](./ScreenShots/settings.png)
 
 
 ## Setup
