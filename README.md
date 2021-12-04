@@ -40,7 +40,7 @@ List the ready features here:
 
 ![Hand Mode](./Gurdian picture tool/Hand mode.png)
 
-![Settings](./Gurdian picture tool/settings.png)
+![Settings](Gurdian picture tool/settings.png)
 
 
 ## Setup
