@@ -34,13 +34,13 @@ List the ready features here:
 
 
 ## Screenshots
-![Home Page](./Gurdian picture tool/Gurdian Picture Tool.png)
+![Home Page](./Gurdian Picture Tool.png)
 
-![In Action](./Gurdian picture tool/In action.png)
+![In Action](./In action.png)
 
-![Hand Mode](./Gurdian picture tool/Hand mode.png)
+![Hand Mode](./Hand mode.png)
 
-![Settings](Gurdian picture tool/settings.png)
+![Settings](./settings.png)
 
 
 ## Setup
