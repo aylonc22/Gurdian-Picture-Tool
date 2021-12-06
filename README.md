@@ -58,7 +58,7 @@ In order to use the application we need to check all node modules are correctlly
 
 
 ## Project Status
-Project is: Complete.
+Project is: Oמ Going.
 
 
 ## Room for Improvement
